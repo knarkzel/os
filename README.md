@@ -6,3 +6,5 @@ cd os/
 nix develop # or nix-shell
 cargo run
 ```
+
+![Hello, world!](screenshot.png)
